@@ -1,6 +1,3 @@
-# terranova-4g-100-project-management
-A project management case study to showcase planning and executing skills on a complex scenario, with multiple tasks and resources.
-
 > **Portfolio Showcase — hypothetical project, real methodology**
 > Terranova 4G 100 is a professional showcase derived directly from my practical experience managing a large-scale 4G mobile network build for a national telecommunications operator in Ecuador. To protect confidentiality and comply fully with NDA obligations, the programme has been re-scoped and re-situated in rural Northern Spain. The figures, geography, and company name are fictional — the PMO methodology, governance model, WBS structure, and reporting framework are the real, production-tested discipline I use to run large infrastructure programmes.
 
