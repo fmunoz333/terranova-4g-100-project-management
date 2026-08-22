@@ -10,7 +10,7 @@
 
 > **Turning a 9,057-task, €4.56M, 100-site rural 4G rollout into a single, governable programme — planned under PMBOK 8th Edition and executed through ten parallel crews on an Agile, Kanban-driven rhythm.**
 
-![Terranova 4G 100 Rural Site Installation](./assets/Terranova 4G 100.png)
+![Terranova 4G 100 Rural Site Installation](./assets/terranova-4G-100.png)
 
 ---
 
