@@ -168,15 +168,22 @@ A programme of this scale is only as governable as its reporting. Terranova 4G 1
 ### 1️⃣ Executive & Sponsor Layer
 *A fast, reliable read on programme health without task-level detail.*
 
+- **Executive Gantt Chart** — one-page picture of progress against the 439-day baseline
 ![Executive Gantt Chart](./images/03-executive-gantt.png)
+
+- **Project Overview Report** — overall updated project executive summary
 ![Project Overview Report](./images/04-project-overview.png)
+
+- **Earned Value Analysis Report** — CPI and SPI figures answering the only two questions an executive needs: "are we on budget?", and "are we on schedule?"
 ![Earned Value Analysis](./images/05-earned-value.png)
+
+- **Cash Flow Report** — synchronize budget releases with actual programme burn on a €4.56M capital programme funded in tranches
 ![Cash Flow Report](./images/06-cash-flow.png)
+
+- **Cash Flow Report** & **Cost Overview Report** — executive summary for actual costs and remaining cost for the whole project execution
 ![Cost Overview Report](./images/07-cost-overview.png)
 
-- **Executive Gantt Chart** & **Project Overview Report** — one-page picture of progress against the 439-day baseline
-- **Earned Value Analysis Report** — CPI and SPI figures answering the only two questions an executive needs: are we on budget, and are we on schedule
-- **Cash Flow Report** & **Cost Overview Report** — synchronize budget releases with actual programme burn on a €4.56M capital programme funded in tranches
+
 
 ### 2️⃣ Management & PMO Layer
 *Enough granularity to intervene before a problem becomes a crisis.*
