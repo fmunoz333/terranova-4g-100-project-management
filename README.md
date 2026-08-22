@@ -10,7 +10,7 @@
 
 > **Turning a 9,057-task, €4.56M, 100-site rural 4G rollout into a single, governable programme — planned under PMBOK 8th Edition and executed through ten parallel crews on an Agile, Kanban-driven rhythm.**
 
-![Terranova 4G 100 Rural Site Installation](./assets/terranova-4G-100.png)
+![Terranova 4G 100 Rural Site Installation](./images/01-site-installation.png)
 
 ---
 
@@ -103,7 +103,7 @@ The schedule descends as far as **six outline levels** — from the four-phase p
 
 Every site is delivered through an identical technical sequence — the reason a 100-site rollout is manageable rather than a hundred bespoke projects.
 
-![Deployment Process](./screenshots/Process design.png)
+![Deployment Process](./images/02-deployment-process.png)
 
 **The sequence, at every site:**
 
@@ -168,11 +168,11 @@ A programme of this scale is only as governable as its reporting. Terranova 4G 1
 ### 1️⃣ Executive & Sponsor Layer
 *A fast, reliable read on programme health without task-level detail.*
 
-![Executive Gantt Chart](./screenshots/Executive Gantt Chart view.png)
-![Project Overview Report](./screenshots/Project Overview Report.png)
-![Earned Value Analysis](./screenshots/Earned Value Analysis Report.png)
-![Cash Flow Report](./screenshots/Cash Flow Report.png)
-![Cost Overview Report](./screenshots/Cost Overview Report.png)
+![Executive Gantt Chart](./images/03-executive-gantt.png)
+![Project Overview Report](./images/04-project-overview.png)
+![Earned Value Analysis](./images/05-earned-value.png)
+![Cash Flow Report](./images/06-cash-flow.png)
+![Cost Overview Report](./images/07-cost-overview.png)
 
 - **Executive Gantt Chart** & **Project Overview Report** — one-page picture of progress against the 439-day baseline
 - **Earned Value Analysis Report** — CPI and SPI figures answering the only two questions an executive needs: are we on budget, and are we on schedule
@@ -181,12 +181,13 @@ A programme of this scale is only as governable as its reporting. Terranova 4G 1
 ### 2️⃣ Management & PMO Layer
 *Enough granularity to intervene before a problem becomes a crisis.*
 
-![Management Gantt Chart](./screenshots/08-management-gantt.png)
-![Resources Overview Report](./screenshots/09-resources-overview.png)
-![Resources Allocation Report](./screenshots/10-resources-allocation.png)
-![Overallocated Resources Report](./screenshots/11-overallocated-resources.png)
-![Cost Overruns Report](./screenshots/12-cost-overruns.png)
-![Resource Cost Overview Report](./screenshots/13-resource-cost-overview.png)
+![Management Gantt Chart](./images/08-management-gantt.png)
+![Resources Overview Report](./images/09-resources-overview.png)
+![Resources Allocation Report](./images/10-resources-allocation.png)
+![Overallocated Resources Report](./images/11-overallocated-resources.png)
+![Resources Overallocation Analysis](./images/26-resource-overallocation.png)
+![Cost Overruns Report](./images/12-cost-overruns.png)
+![Resource Cost Overview Report](./images/13-resource-cost-overview.png)
 
 - **Management Gantt Chart**, **Resources Overview**, and **Resource Allocation Costs** — how the ten crews are loaded across the 100-site portfolio at any moment
 - **Overallocated Resources Report** — flags before a crew, specialist role, or piece of equipment is double-booked across concurrent sites
@@ -195,13 +196,13 @@ A programme of this scale is only as governable as its reporting. Terranova 4G 1
 ### 3️⃣ Project Manager Layer
 *Tools to interrogate the full 9,057-task schedule at any level.*
 
-![Full Gantt Chart](./screenshots/14-full-gantt.png)
-![Network Diagram](./screenshots/15-network-diagram.png)
-![Critical Task Report](./screenshots/16-critical-tasks.png)
-![Critical Task Follow-up](./screenshots/17-critical-tasks-followup.png)
-![Late Task Report](./screenshots/18-late-tasks.png)
-![Task Cost Overview](./screenshots/19-task-cost-overview.png)
-![Work Overview Report](./screenshots/20-work-overview.png)
+![Full Gantt Chart](./images/14-full-gantt.png)
+![Network Diagram](./images/15-network-diagram.png)
+![Critical Task Report](./images/16-critical-tasks.png)
+![Critical Task Follow-up](./images/17-critical-tasks-followup.png)
+![Late Task Report](./images/18-late-tasks.png)
+![Task Cost Overview](./images/19-task-cost-overview.png)
+![Work Overview Report](./images/20-work-overview.png)
 
 - **Full Gantt Charts** & **Network Diagram** — task sequencing and dependency logic across all six outline levels
 - **Critical Tasks Report** & **Follow-up** — isolate tasks whose slippage would directly delay the 439-day finish date
@@ -211,11 +212,11 @@ A programme of this scale is only as governable as its reporting. Terranova 4G 1
 ### 4️⃣ Project Team Layer
 *Tools built for daily execution, not monthly review.*
 
-![Kanban Boards](./screenshots/21-kanban-boards.png)
-![Burndown Chart Report](./screenshots/22-burndown-chart.png)
-![Calendar Task Follow-up](./screenshots/23-calendar-followup.png)
-![Timeline Schedule View](./screenshots/24-timeline-view.png)
-![Team Planning](./screenshots/25-team-planning.png)
+![Kanban Boards](./images/21-kanban-boards.png)
+![Burndown Chart Report](./images/22-burndown-chart.png)
+![Calendar Task Follow-up](./images/23-calendar-followup.png)
+![Timeline Schedule View](./images/24-timeline-view.png)
+![Team Planning](./images/25-team-planning.png)
 
 - **Kanban Boards** — a live, visual queue of sites moving through negotiation, permitting, construction, and commissioning for each crew
 - **Burndown Chart Report** — whether a crew's sprint velocity is keeping pace with the 100-site target
