@@ -10,7 +10,7 @@
 
 > **Turning a 9,057-task, €4.56M, 100-site rural 4G rollout into a single, governable programme — planned under PMBOK 8th Edition and executed through ten parallel crews on an Agile, Kanban-driven rhythm.**
 
-![Terranova 4G 100 Rural Site Installation](./screenshots/01-site-installation.png)
+![Terranova 4G 100 Rural Site Installation](./assets/Terranova 4G 100.png)
 
 ---
 
@@ -103,7 +103,7 @@ The schedule descends as far as **six outline levels** — from the four-phase p
 
 Every site is delivered through an identical technical sequence — the reason a 100-site rollout is manageable rather than a hundred bespoke projects.
 
-![Deployment Process](./screenshots/02-deployment-process.png)
+![Deployment Process](./screenshots/Process design.png)
 
 **The sequence, at every site:**
 
@@ -131,19 +131,19 @@ Terranova 4G 100 is governed through a deliberate **two-stage methodology**: a w
 | **3 — Executing** | 331 days | €3,606,400 | Procurement, core upgrade, 100-site deployment |
 | **4 — Closing** | 26 days | €8,960 | Acceptance, documentation, and formal closure |
 
-### Initiating (30 days)
+### Initiating Phase (30 days)
 Business case, benefits management plan, and existing agreements reviewed alongside regulatory and rural-zone context. A dedicated socio-economic feasibility study and initial CapEx/OpEx analysis ground the business case and inform the choice of the hybrid waterfall/Agile development approach. Closes with a sponsor-approved Project Charter, elaborated Stakeholder Register, and initial Assumption Log.
 
-### Planning (102 days)
+### Planning Phase (102 days)
 The most process-intensive phase. Opens with the Technical Site Survey replicated across all 100 candidate sites, running concurrently with requirements elicitation and initial subsidiary-plan drafting. Works methodically through the full PMBOK planning sequence — scope, schedule, cost, budget, resource, communications, stakeholder, and risk management — producing the WBS that expands to 9,057 tasks and the €4.56M programme budget. Closes with an integrated Project Management Plan and formal sponsor approval.
 
-### Executing (331 days)
+### Executing Phase (331 days)
 The largest phase by duration and budget (€3.6M). Opens with an 83-day, six-workstream procurement phase under Evaluation Committee and Trade Compliance oversight. The centerpiece is the 317-day, €3.45M **100 4G Site Deployment** workstream, in which ten paired crews execute the technical sequence at each site — tracked on Kanban boards that give the programme office a live, visual read on how many sites sit in negotiation, permitting, construction, or commissioning at any given moment.
 
-### Monitoring & Controlling (continuous)
+### Monitoring & Controlling Phase (continuous)
 Consistent with PMBOK 8th Edition's shift toward continuously operating performance domains, this is not a discrete phase but a discipline embedded in every one of the 9,057 tasks — each carrying BCWS, BCWP, and ACWP rolled up into CPI and SPI at every WBS level.
 
-### Closing (26 days)
+### Closing Phase (26 days)
 Formal verification of deliverables against acceptance criteria, vendor contract closure, crew release, a structured lessons-learned exercise, and final sponsor sign-off confirming 100 commissioned sites delivered within budget and schedule baseline.
 
 ---
@@ -168,11 +168,11 @@ A programme of this scale is only as governable as its reporting. Terranova 4G 1
 ### 1️⃣ Executive & Sponsor Layer
 *A fast, reliable read on programme health without task-level detail.*
 
-![Executive Gantt Chart](./screenshots/03-executive-gantt.png)
-![Project Overview Report](./screenshots/04-project-overview.png)
-![Earned Value Analysis](./screenshots/05-earned-value.png)
-![Cash Flow Report](./screenshots/06-cash-flow.png)
-![Cost Overview Report](./screenshots/07-cost-overview.png)
+![Executive Gantt Chart](./screenshots/Executive Gantt Chart view.png)
+![Project Overview Report](./screenshots/Project Overview Report.png)
+![Earned Value Analysis](./screenshots/Earned Value Analysis Report.png)
+![Cash Flow Report](./screenshots/Cash Flow Report.png)
+![Cost Overview Report](./screenshots/Cost Overview Report.png)
 
 - **Executive Gantt Chart** & **Project Overview Report** — one-page picture of progress against the 439-day baseline
 - **Earned Value Analysis Report** — CPI and SPI figures answering the only two questions an executive needs: are we on budget, and are we on schedule
